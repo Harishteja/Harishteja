@@ -36,4 +36,4 @@ I'm passionate about developing efficient computational methods and exploring th
 
 Feel free to explore my repositories or reach out for research discussions and collaborations!
 
-🚀 Always learning, building, and exploring new computational frontiers.
+Always learning, building, and exploring new computational frontiers.
